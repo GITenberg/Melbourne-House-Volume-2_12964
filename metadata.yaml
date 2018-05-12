@@ -1,5 +1,8 @@
 _repo: Melbourne-House-Volume-2_12964
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Warner, Susan
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4744
     wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12964#Melbourne-House-Volume-2
 gutenberg_issued: '2004-07-20'
 gutenberg_type: Text
 identifiers:
